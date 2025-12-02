@@ -7,4 +7,5 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 9-Palindrome-Number.cpp contains my solution to [Problem Set 9](https://leetcode.com/problems/palindrome-number/).<br />
 12-Integer-to-Roman.cpp contains my solution to [Problem Set 12](https://leetcode.com/problems/integer-to-roman/).<br />
 13-Roman-to-Integer.cpp contains my solution to [Problem Set 13](https://leetcode.com/problems/roman-to-integer/).<br />
-3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp contains my solution to [Problem Set 3512](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/).
+3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp contains my solution to [Problem Set 3512](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/).<br />
+3623-Count-Number-of-Trapezoids-I.cpp contains my solution to [Problem Set 3623](https://leetcode.com/problems/count-number-of-trapezoids-i/).<br />
