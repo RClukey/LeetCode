@@ -9,7 +9,7 @@ public:
         for (auto& [_, num] : map)
         {
             long long edge = (long long)num * (num - 1) / 2;
-            count += edge * sum;
+            count += edge * sum; 
             sum += edge;
         }
         return count % 1000000007;
