@@ -13,5 +13,6 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 24-Swap-Nodes-in-Pairs.cpp contains my solution to [Problem Set 24](https://leetcode.com/problems/swap-nodes-in-pairs/). It beats 100% in speed and 84.98% in memory.<br />
 2211-Count-Collisions-on-a-Road.cpp contains my solution to [Problem Set 2211](https://leetcode.com/problems/count-collisions-on-a-road/). It beats 68.12% in speed and 64.06% in memory.<br />
 2932-Maximum-Strong-Pair-XOR-I.cpp contains my solution to [Problem Set 2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/). It beats 100% in speed and 92.12% in memory.<br />
+3432-Count-Partitions-with-Even-Sum-Difference.cpp contains my solution to [Problem Set 3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference/). It beats 100% in speed and 96.78% in memory.<br />
 3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp contains my solution to [Problem Set 3512](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/). It beats 100% in speed and 95.29% in memory.<br />
 3623-Count-Number-of-Trapezoids-I.cpp contains my solution to [Problem Set 3623](https://leetcode.com/problems/count-number-of-trapezoids-i/). It beats 96.32% in speed and 91.58% in memory.<br />
