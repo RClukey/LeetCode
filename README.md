@@ -3,6 +3,7 @@
 This repository contains all my code for the LeetCode problems. My LeetCode profile is [here](https://leetcode.com/u/rdclukey/).
 
 1-Two-Sum.cpp contains my solution to [Problem Set 1](https://leetcode.com/problems/two-sum/). It beats 100% in speed and 36.80% in memory<br />
+2-Add-Two-Numbers.cpp contains my solution to [Problem Set 2](https://leetcode.com/problems/add-two-numbers/). It beats 100% in speed and 74.01% in memory<br />
 7-Reverse-Integer.cpp contains my solution to [Problem Set 7](https://leetcode.com/problems/reverse-integer/). It beats 100% in speed and 20.73% in memory.<br />
 9-Palindrome-Number.cpp contains my solution to [Problem Set 9](https://leetcode.com/problems/palindrome-number/). It beats 100% in speed and 68.71% in memory.<br />
 12-Integer-to-Roman.cpp contains my solution to [Problem Set 12](https://leetcode.com/problems/integer-to-roman/). It beats 100% in speed and 78.44% in memory.<br />
