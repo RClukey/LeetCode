@@ -15,6 +15,7 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 24-Swap-Nodes-in-Pairs.cpp contains my solution to [Problem Set 24](https://leetcode.com/problems/swap-nodes-in-pairs/). It beats 100% in speed and 84.98% in memory.<br />
 - 35-Search-Insert-Position.cpp contains my solution to [Problem Set 35](https://leetcode.com/problems/search-insert-position/). It beats 100% in speed and 41.78% in memory.<br />
 - 58-Length-of-Last-Word.cpp contains my solution to [Problem Set 58](https://leetcode.com/problems/length-of-last-word/). It beats 100% in speed and 31.62% in memory.<br />
+- 66-Plus-One.cpp contains my solution to [Problem Set 66](https://leetcode.com/problems/plus-one/). It beats 100% in speed and 14.47% in memory.<br />
 - 1015-Smallest-Integer-Divisible-by-K.cpp contains my solution to [Problem Set 1015](https://leetcode.com/problems/smallest-integer-divisible-by-k/). It beats 100% in speed and 81.28% in memory.<br />
 - 1018-Binary-Prefix-Divisible-By-5.cpp contains my solution to [Problem Set 1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/). It beats 100% in speed and 94.09% in memory.<br />
 - 1523-Count-Odd-Numbers-in-an-Interval-Range.cpp contains my solution to [Problem Set 1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/). It beats 100% in speed and 37.48% in memory.<br />
