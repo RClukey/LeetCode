@@ -24,4 +24,5 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 3432-Count-Partitions-with-Even-Sum-Difference.cpp contains my solution to [Problem Set 3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference/). It beats 100% in speed and 96.78% in memory.<br />
 - 3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp contains my solution to [Problem Set 3512](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/). It beats 100% in speed and 95.29% in memory.<br />
 - 3531-Count-Covered-Buildings.cpp contains my solution to [Problem Set 3531](https://leetcode.com/problems/count-covered-buildings/). It beats 94.74% in speed and 92.11% in memory.<br />
+- 3606-Coupon-Code-Validator.cpp contains my solution to [Problem Set 3606](https://leetcode.com/problems/coupon-code-validator/). It beats 100% in speed and 60.96% in memory.<br />
 - 3623-Count-Number-of-Trapezoids-I.cpp contains my solution to [Problem Set 3623](https://leetcode.com/problems/count-number-of-trapezoids-i/). It beats 96.32% in speed and 91.58% in memory.<br />
