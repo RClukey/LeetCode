@@ -13,6 +13,7 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 20-Valid-Parentheses.cpp contains my solution to [Problem Set 20](https://leetcode.com/problems/valid-parentheses/). It beats 100% in speed and 66.17% in memory.
 - 21-Merge-Two-Sorted-Lists.cpp contains my solution to [Problem Set 21](https://leetcode.com/problems/merge-two-sorted-lists/). It beats 100% in speed and 86.67% in memory.
 - 24-Swap-Nodes-in-Pairs.cpp contains my solution to [Problem Set 24](https://leetcode.com/problems/swap-nodes-in-pairs/). It beats 100% in speed and 84.98% in memory.
+- 27-Remove-Element.cpp contains my solution to [Problem Set 27](https://leetcode.com/problems/remove-element/). It beats 100% in speed and 9.64% in memory.
 - 35-Search-Insert-Position.cpp contains my solution to [Problem Set 35](https://leetcode.com/problems/search-insert-position/). It beats 100% in speed and 41.78% in memory.
 - 58-Length-of-Last-Word.cpp contains my solution to [Problem Set 58](https://leetcode.com/problems/length-of-last-word/). It beats 100% in speed and 31.62% in memory.
 - 66-Plus-One.cpp contains my solution to [Problem Set 66](https://leetcode.com/problems/plus-one/). It beats 100% in speed and 14.47% in memory.
