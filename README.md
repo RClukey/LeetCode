@@ -19,6 +19,7 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 35-Search-Insert-Position.cpp contains my solution to [Problem Set 35](https://leetcode.com/problems/search-insert-position/). It beats 100% in speed and 41.78% in memory.
 - 58-Length-of-Last-Word.cpp contains my solution to [Problem Set 58](https://leetcode.com/problems/length-of-last-word/). It beats 100% in speed and 31.62% in memory.
 - 66-Plus-One.cpp contains my solution to [Problem Set 66](https://leetcode.com/problems/plus-one/). It beats 100% in speed and 14.47% in memory.
+- 67-Add-Binary.cpp contains my solution to [Problem Set 67](https://leetcode.com/problems/add-binary/). It beats 100% in speed and 95.89% in memory.
 - 69-Sqrt(x).cpp contains my solution to [Problem Set 69](https://leetcode.com/problems/sqrtx/). It beats 100% in speed and 99.18% in memory.
 - 110-Balanced-Binary-Tree.cpp contains my solution to [Problem Set 110](https://leetcode.com/problems/balanced-binary-tree/). It beats 100% in speed and 83.52% in memory.
 - 111-Minimum-Depth-of-Binary-Tree.cpp contains my solution to [Problem Set 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/). It beats 100% in speed and 73.12% in memory.
