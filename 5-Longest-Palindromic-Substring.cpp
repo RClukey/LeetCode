@@ -1,27 +1,32 @@
 class Solution {
 public:
-    int expand(string s, int l, int r) {
-        while (l >= 0 && r < s.length() && s[l] == s[r]) {
-            l--;
-            r++;
-        }
-        return r - l - 1;
-    } 
-
     string longestPalindrome(string s) {
         if (s.length() <= 1) return s;
-        
-        int start = 0;
-        int end = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int maximum = max(expand(s, i, i), expand(s, i, i + 1));
 
-            if (maximum > end - start) {
-                start = i - (maximum - 1) / 2;
-                end = i + maximum / 2;
+        string tempStr = "^#";
+        for (char c : s) {
+            tempStr += c;
+            tempStr += '#';
+        }
+        tempStr += "$";
+
+        int n = tempStr.size();
+        vector<int> palinRadii(n, 0);
+        int palinCenter = 0, palinRadius = 0;
+
+        for (int i = 1; i < n-1; ++i) {
+            palinRadii[i] = (palinRadius > i) ? min(palinRadius - i, palinRadii[2*palinCenter - i]) : 0;
+            while (tempStr[i + 1 + palinRadii[i]] == tempStr[i - 1 - palinRadii[i]])
+                palinRadii[i]++;
+
+            if (i + palinRadii[i] > palinRadius) {
+                palinCenter = i;
+                palinRadius = i + palinRadii[i];
             }
         }
 
-        return s.substr(start, end - start + 1);  
-    } 
+        int max_len = *max_element(palinRadii.begin(), palinRadii.end());
+        int center_index = distance(palinRadii.begin(), find(palinRadii.begin(), palinRadii.end(), max_len));
+        return s.substr((center_index - max_len) / 2, max_len);
+    }
 };
