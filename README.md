@@ -6,6 +6,7 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 2-Add-Two-Numbers.cpp contains my solution to [Problem Set 2](https://leetcode.com/problems/add-two-numbers/). It beats 100% in speed and 74.01% in memory.
 - 3-Longest-Substring-Without-Repeating-Characters.cpp contains my solution to [Problem Set 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/). It beats 100% in speed and 93.63% in memory.
 - 4-Median-of-Two-Sorted-Arrays.cpp contains my solution to [Problem Set 4](https://leetcode.com/problems/median-of-two-sorted-arrays/). It beats 100% in speed and 24.45% in memory.
+- 5-Longest-Palindromic-Substring.cpp contains my solution to [Problem Set 5](https://leetcode.com/problems/longest-palindromic-substring/). It beats 44.52% in speed and 22.87% in memory.
 - 7-Reverse-Integer.cpp contains my solution to [Problem Set 7](https://leetcode.com/problems/reverse-integer/). It beats 100% in speed and 20.73% in memory.
 - 9-Palindrome-Number.cpp contains my solution to [Problem Set 9](https://leetcode.com/problems/palindrome-number/). It beats 100% in speed and 68.71% in memory.
 - 12-Integer-to-Roman.cpp contains my solution to [Problem Set 12](https://leetcode.com/problems/integer-to-roman/). It beats 100% in speed and 78.44% in memory.
