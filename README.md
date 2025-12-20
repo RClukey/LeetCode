@@ -30,6 +30,7 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 119-Pascal's-Triangle-II.cpp contains my solution to [Problem Set 119](https://leetcode.com/problems/pascals-triangle-ii/). It beats 100% of other solutions in speed and 74.93% in memory.
 - 232-Implement-Queue-using-Stacks.cpp contains my solution to [Problem Set 232](https://leetcode.com/problems/implement-queue-using-stacks/). It beats 100% of other solutions in speed and 66.83% in memory.
 - 374-Guess-Number-Higher-or-Lower.cpp contains my solution to [Problem Set 374](https://leetcode.com/problems/guess-number-higher-or-lower/). It beats 100% of other solutions in speed and 93.74% in memory.
+- 944-Delete-Columns-to-Make-Sorted.cpp contains my solution to [Problem Set 944](https://leetcode.com/problems/delete-columns-to-make-sorted/). It beats 100% of other solutions in speed and 77.30% in memory.
 - 1015-Smallest-Integer-Divisible-by-K.cpp contains my solution to [Problem Set 1015](https://leetcode.com/problems/smallest-integer-divisible-by-k/). It beats 100% of other solutions in speed and 81.28% in memory.
 - 1018-Binary-Prefix-Divisible-By-5.cpp contains my solution to [Problem Set 1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/). It beats 100% of other solutions in speed and 94.09% in memory.
 - 1523-Count-Odd-Numbers-in-an-Interval-Range.cpp contains my solution to [Problem Set 1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/). It beats 100% of other solutions in speed and 37.48% in memory.
