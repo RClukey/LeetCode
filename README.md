@@ -16,6 +16,7 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 13-Roman-to-Integer.cpp contains my solution to [Problem Set 13](https://leetcode.com/problems/roman-to-integer/). It beats 100% of other solutions in speed and 93.71% in memory.
 - 14-Longest-Common-Prefix.cpp contains my solution to [Problem Set 14](https://leetcode.com/problems/longest-common-prefix/). It beats 100% of other solutions in speed and 48.79% in memory.
 - 15-3Sum.cpp contains my solution to [Problem Set 15](https://leetcode.com/problems/3sum/). It beats 93.65% of other solutions in speed and 98.91% in memory.
+- 16-3Sum-Closest.cpp contains my solution to [Problem Set 16](https://leetcode.com/problems/3sum-closest/). It beats 69.22% of other solutions in speed and 99.77% in memory.
 - 20-Valid-Parentheses.cpp contains my solution to [Problem Set 20](https://leetcode.com/problems/valid-parentheses/). It beats 100% of other solutions in speed and 66.17% in memory.
 - 21-Merge-Two-Sorted-Lists.cpp contains my solution to [Problem Set 21](https://leetcode.com/problems/merge-two-sorted-lists/). It beats 100% of other solutions in speed and 86.67% in memory.
 - 24-Swap-Nodes-in-Pairs.cpp contains my solution to [Problem Set 24](https://leetcode.com/problems/swap-nodes-in-pairs/). It beats 100% of other solutions in speed and 84.98% in memory.
