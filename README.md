@@ -9,6 +9,7 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - 5-Longest-Palindromic-Substring.cpp contains my solution to [Problem Set 5](https://leetcode.com/problems/longest-palindromic-substring/). It beats 100% of other solutions in speed and 52.69% in memory.
 - 6-Zigzag-Conversion.cpp contains my solution to [Problem Set 6](https://leetcode.com/problems/zigzag-conversion/). It beats 100% of other solutions in speed and 93.91% in memory.
 - 7-Reverse-Integer.cpp contains my solution to [Problem Set 7](https://leetcode.com/problems/reverse-integer/). It beats 100% of other solutions in speed and 20.73% in memory.
+- 8-String-to-Integer-(atoi).cpp contains my solution to [Problem Set 8](https://leetcode.com/problems/string-to-integer-atoi/). It beats 100% of other solutions in speed and 97.26% in memory.
 - 9-Palindrome-Number.cpp contains my solution to [Problem Set 9](https://leetcode.com/problems/palindrome-number/). It beats 100% of other solutions in speed and 68.71% in memory.
 - 12-Integer-to-Roman.cpp contains my solution to [Problem Set 12](https://leetcode.com/problems/integer-to-roman/). It beats 100% of other solutions in speed and 78.44% in memory.
 - 13-Roman-to-Integer.cpp contains my solution to [Problem Set 13](https://leetcode.com/problems/roman-to-integer/). It beats 100% of other solutions in speed and 93.71% in memory.
