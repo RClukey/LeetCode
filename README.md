@@ -54,6 +54,11 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - [2092-Find-All-People-With-Secret.cpp](https://github.com/RClukey/LeetCode/blob/main/2092-Find-All-People-With-Secret.cpp) contains my solution to [Problem Set 2092](https://leetcode.com/problems/find-all-people-with-secret/). It beats 84.55% of other solutions in speed and 87.80% in memory.
 - [2211-Count-Collisions-on-a-Road.cpp](https://github.com/RClukey/LeetCode/blob/main/2211-Count-Collisions-on-a-Road.cpp) contains my solution to [Problem Set 2211](https://leetcode.com/problems/count-collisions-on-a-road/). It beats 68.12% of other solutions in speed and 64.06% in memory.
 - [2932-Maximum-Strong-Pair-XOR-I.cpp](https://github.com/RClukey/LeetCode/blob/main/2932-Maximum-Strong-Pair-XOR-I.cpp) contains my solution to [Problem Set 2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/). It beats 100% of other solutions in speed and 92.12% in memory.
+
+
+
+
+
 - [3432-Count-Partitions-with-Even-Sum-Difference.cpp](https://github.com/RClukey/LeetCode/blob/main/3432-Count-Partitions-with-Even-Sum-Difference.cpp) contains my solution to [Problem Set 3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference/). It beats 100% of other solutions in speed and 96.78% in memory.
 - [3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp](https://github.com/RClukey/LeetCode/blob/main/3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K.cpp) contains my solution to [Problem Set 3512](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/). It beats 100% of other solutions in speed and 95.29% in memory.
 - [3531-Count-Covered-Buildings.cpp](https://github.com/RClukey/LeetCode/blob/main/3531-Count-Covered-Buildings.cpp) contains my solution to [Problem Set 3531](https://leetcode.com/problems/count-covered-buildings/). It beats 94.74% of other solutions in speed and 92.11% in memory.
