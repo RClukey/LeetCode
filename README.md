@@ -70,3 +70,16 @@ This repository contains all my code for the LeetCode problems. My LeetCode prof
 - [3531-Count-Covered-Buildings.cpp](https://github.com/RClukey/LeetCode/blob/main/3531-Count-Covered-Buildings.cpp) contains my solution to [Problem Set 3531](https://leetcode.com/problems/count-covered-buildings/). It beats 94.74% of other solutions in speed and 92.11% in memory.
 - [3606-Coupon-Code-Validator.cpp](https://github.com/RClukey/LeetCode/blob/main/3606-Coupon-Code-Validator.cpp) contains my solution to [Problem Set 3606](https://leetcode.com/problems/coupon-code-validator/). It beats 100% of other solutions in speed and 60.96% in memory.
 - [3623-Count-Number-of-Trapezoids-I.cpp](https://github.com/RClukey/LeetCode/blob/main/3623-Count-Number-of-Trapezoids-I.cpp) contains my solution to [Problem Set 3623](https://leetcode.com/problems/count-number-of-trapezoids-i/). It beats 96.32% of other solutions in speed and 91.58% in memory.
+- [3783-Mirror-Distance-of-an-Integer.cpp](https://github.com/RClukey/LeetCode/blob/main/3783-Mirror-Distance-of-an-Integer.cpp) contains my solution to [Problem Set 3783](https://leetcode.com/problems/mirror-distance-of-an-integer/). It beats 100% of other solutions in speed and 65.98% in memory.
+
+
+
+
+
+
+
+
+
+
+
+
